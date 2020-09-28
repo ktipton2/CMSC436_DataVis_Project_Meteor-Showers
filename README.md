@@ -1,4 +1,4 @@
-# CMSC436_DataVis_Project
+# CMSC436_DataVis_Project_Meteor Showers
 NASA Data Vis for Meteor Showers for UMBC's CMSC 436 Final Project for Fall 2020
 
 Original Author: Kyle Tipton
