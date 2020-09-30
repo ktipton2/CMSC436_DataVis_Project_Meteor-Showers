@@ -11,3 +11,6 @@ We'll need to make some efficiency decisions regarding the simulation early on a
 I don't want to oversell ourselves. 
 
 We can always increase visual complexity from Blender after we've hammered out how we're going to connect the backend to Blender's simulation software.
+
+Collected Playlist for Blender Tutorials:
+https://www.youtube.com/playlist?list=PLGw5XHCVQX2cgC61DQ8W3DS4T1sqbdjto
