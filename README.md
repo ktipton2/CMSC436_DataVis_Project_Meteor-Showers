@@ -14,3 +14,6 @@ We can always increase visual complexity from Blender after we've hammered out h
 
 Collected Playlist for Blender Tutorials:
 https://www.youtube.com/playlist?list=PLGw5XHCVQX2cgC61DQ8W3DS4T1sqbdjto
+
+Potential Falling Star Particle Configuration:
+https://blender.stackexchange.com/questions/173211/is-there-any-way-possible-to-tail-a-falling-star-or-comet-like-particle
